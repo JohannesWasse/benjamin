@@ -1,0 +1,634 @@
+{
+    "Fehlerbericht": {
+        "Softwarebug": {
+            "27043826": {
+                "order_id": 27043826,
+                "keyWord": "bearbeitungsproblem",
+                "Dringlichkeit": 5,
+                "Zusammenfassung": "Bilder im Warenkorb nicht mehr bearbeitbar.",
+                "Datum": "2024-1-8",
+                "user_id": "607be46e12235a9e71ee5db2033bf12e",
+                "full_comment": "Bilder im Warenkorb leider nicht mehr bearbeitbar!"
+            },
+            "27044107": {
+                "order_id": 27044107,
+                "keyWord": "bearbeitungsweg",
+                "Dringlichkeit": 5,
+                "Zusammenfassung": "Bearbeitungsweg nicht eindeutig.",
+                "Datum": "2024-1-8",
+                "user_id": "232cca28bbfed7a37ec2ed3a44a92b37",
+                "full_comment": "Nach Produktauswahl ist der Bearbeitungsweg nicht eindeutig"
+            },
+            "27044658": {
+                "order_id": 27044658,
+                "keyWord": "kalendererstellung",
+                "Dringlichkeit": 3,
+                "Zusammenfassung": "Kalendererstellung h\u00e4ngt sich auf.",
+                "Datum": "2024-1-8",
+                "user_id": "b1988ce2f6accf478fd62229c6454b17",
+                "full_comment": "Die Kalendererstellung funktioniert soweit ganz gut. Leider h\u00e4ngt sie zwischendrin manchmal so daass man Angst hat alles zu verlieren aber hat dann doch alles geklappt."
+            },
+            "27047625": {
+                "order_id": 27047625,
+                "keyWord": "uploadproblem",
+                "Dringlichkeit": 5,
+                "Zusammenfassung": "Foto hochladen schwierig.",
+                "Datum": "2024-1-9",
+                "user_id": "30d6a2a75e92dbec279faab952950f3c",
+                "full_comment": "Foto hochladen schwierig"
+            },
+            "27048546": {
+                "order_id": 27048546,
+                "keyWord": "datentransfer",
+                "Dringlichkeit": 8,
+                "Zusammenfassung": "Keine Daten\u00fcbertragung m\u00f6glich.",
+                "Datum": "2024-1-9",
+                "user_id": "cd94e1c7190abbbe1abd0758b21e05b8",
+                "full_comment": "keine \u00dcbertragung Daten von Website zur Software oder App m\u00f6glich"
+            },
+            "27048695": {
+                "order_id": 27048695,
+                "keyWord": "fotoverschiebung",
+                "Dringlichkeit": 5,
+                "Zusammenfassung": "Fotos verschieben nicht.",
+                "Datum": "2024-1-9",
+                "user_id": "6ef8a6b1311e7fe701ec9bbf3c1d550e",
+                "full_comment": "FOTOS VERSCHIEBEN BEIM FOTOBUCH NICHT GEFUNDEN"
+            },
+            "27049123": {
+                "order_id": 27049123,
+                "keyWord": "webseitenabsturz",
+                "Dringlichkeit": 8,
+                "Zusammenfassung": "Webseite bricht beim Gestalten zusammen.",
+                "Datum": "2024-1-9",
+                "user_id": "8fd1e325125f6f59688e21e49a155ded",
+                "full_comment": "Die Webseite ist w\u00e4hrend der Gestaltung des Fotobuches mehrmals zusammengebrochen"
+            },
+            "27049545": {
+                "order_id": 27049545,
+                "keyWord": "kalendererstellung",
+                "Dringlichkeit": 5,
+                "Zusammenfassung": "Kalendererstellung lief hacklig.",
+                "Datum": "2024-1-9",
+                "user_id": "9502ea838d9ff240d700520b2503508f",
+                "full_comment": "Das Programm bei der Kalendererstellung lief sehr hacklig und nicht zeitnah. Ich wei\u00df aber nicht ob es nicht auch an unserer Leitung liegt. Beim erstellen eines Fotobuchs mit 160 Seiten und eines Kalenders im November hatte ich keine Probleme. Ich bilde mir auch ein dass das Programm etwas anders war weil zB die Kalendergrafik nicht mehr aufrufbar war so wie ich sie 2022 bestellt habe."
+            },
+            "27049692": {
+                "order_id": 27049692,
+                "keyWord": "uploadproblem",
+                "Dringlichkeit": 7,
+                "Zusammenfassung": "Bilder wurden mehrfach gel\u00f6scht.",
+                "Datum": "2024-1-9",
+                "user_id": "d0b39699346535c8c332c5e143b3fbdc",
+                "full_comment": "Ich musste mehrfach die Bilder hochladen da sie immer wieder gel\u00f6scht wurden."
+            },
+            "27053361": {
+                "order_id": 27053361,
+                "keyWord": "gutscheinfeld",
+                "Dringlichkeit": 5,
+                "Zusammenfassung": "Gutscheinfeld nicht gefunden.",
+                "Datum": "2024-1-10",
+                "user_id": "36a4559c6625ad059da4216d3f0a2c62",
+                "full_comment": "ich konnte das Feld Gutschein nicht finden"
+            },
+            "27054969": {
+                "order_id": 27054969,
+                "keyWord": "absturz",
+                "Dringlichkeit": 8,
+                "Zusammenfassung": "Seite ist mehrmals abgest\u00fcrzt.",
+                "Datum": "2024-1-10",
+                "user_id": "ec454776238394f575c607b4ce0bb53c",
+                "full_comment": "Seite ist mehrmals abgest\u00fcrzt und ich habe viel Zeit gebraucht um meine Fotos mehrmals auszuw\u00e4hlen und hochzuladen"
+            }
+        },
+        "Druckfehler": {},
+        "Logistikproblem": {},
+        "Sonstiges": {}
+    },
+    "keinFehlerbericht": {
+        "Vielfalt": {},
+        "Qualitaet": {
+            "27045913": {
+                "order_id": 27045913,
+                "keyWord": "gutequalitaet",
+                "Dringlichkeit": 1,
+                "Zusammenfassung": "Fotos sind von guter Qualit\u00e4t.",
+                "Datum": "2024-1-8",
+                "user_id": "ffd753596ab5ca56f44f56dd771dd201",
+                "full_comment": "Fotos werden schnell hochgeladen und sind prima in der Software zu verarbeiten. Klasse!"
+            },
+            "27046934": {
+                "order_id": 27046934,
+                "keyWord": "gutekvalitaet",
+                "Dringlichkeit": 1,
+                "Zusammenfassung": "Gute Qualit\u00e4t.",
+                "Datum": "2024-1-8",
+                "user_id": "adb34985e619b796e9e1fa49a5ef5096",
+                "full_comment": "Gute Qualit\u00e4t schnelle Lieferung einfache und intuitive Nutzung des Programms"
+            },
+            "27049864": {
+                "order_id": 27049864,
+                "keyWord": "gutequalitaet",
+                "Dringlichkeit": 1,
+                "Zusammenfassung": "Gute Qualit\u00e4t.",
+                "Datum": "2024-1-9",
+                "user_id": "dc34660ac4f61723021397f172d9e449",
+                "full_comment": "Gute bearbeitung m\u00f6glich sehr gute Produkt-Qualit\u00e4t !"
+            },
+            "27050861": {
+                "order_id": 27050861,
+                "keyWord": "druckoptionen",
+                "Dringlichkeit": 3,
+                "Zusammenfassung": "Druckoptionen fehlen.",
+                "Datum": "2024-1-9",
+                "user_id": "16a0bc6c2be2fb6a90057a2f1de5fe2f",
+                "full_comment": "einfache Handhabung des Bestellvorganges lediglich Angaben zur Qualit\u00e4t des Druckes (Glanz/Matt) fehlen."
+            }
+        },
+        "Benutzerfreundlichkeit": {
+            "27044493": {
+                "order_id": 27044493,
+                "keyWord": "einfachebedienung",
+                "Dringlichkeit": 1,
+                "Zusammenfassung": "einfache Bedienung",
+                "Datum": "2024-1-8",
+                "user_id": "b341a9bf2e5c9b9c837a011cb2177a5b",
+                "full_comment": "einfache Bedienung und Bildkontrolle"
+            },
+            "27044846": {
+                "order_id": 27044846,
+                "keyWord": "uebersichtlich",
+                "Dringlichkeit": 1,
+                "Zusammenfassung": "\u00fcbersichtlich",
+                "Datum": "2024-1-8",
+                "user_id": "14f4d062802287467efa9223a1e3e4fe",
+                "full_comment": "Genauso fix und \u00fcbersichtlich wie in der App f\u00fcr kleine Projekte vollkommen ausreichend"
+            },
+            "27044932": {
+                "order_id": 27044932,
+                "keyWord": "irrelevant",
+                "Dringlichkeit": 1,
+                "Zusammenfassung": "Kalender nicht Jahresunabh\u00e4ngig planbar.",
+                "Datum": "2024-1-8",
+                "user_id": "7f27c6e62aabe35b5637442d13e90c77",
+                "full_comment": "Nicht alle Kalender Jahresunabh\u00e4ngig planbar"
+            },
+            "27044961": {
+                "order_id": 27044961,
+                "keyWord": "einfachegestaltung",
+                "Dringlichkeit": 1,
+                "Zusammenfassung": "Einfache Gestaltung und gute Erkl\u00e4rungen bei Problemen",
+                "Datum": "2024-1-8",
+                "user_id": "bdb63767901a18981987001b7927720f",
+                "full_comment": "Einfache Gestaltung und gute Erkl\u00e4rungen bei Problemen"
+            },
+            "27045176": {
+                "order_id": 27045176,
+                "keyWord": "schwierigeranfang",
+                "Dringlichkeit": 3,
+                "Zusammenfassung": "Anfang schwer zu finden.",
+                "Datum": "2024-1-8",
+                "user_id": "9c875e4f3f8e78a135cb363165acb2af",
+                "full_comment": "schwierig den Anfang zu finden.M\u00fcsst einfacher formuliert werden."
+            },
+            "27045284": {
+                "order_id": 27045284,
+                "keyWord": "einfachebedienung",
+                "Dringlichkeit": 1,
+                "Zusammenfassung": "Einfache Bedienung",
+                "Datum": "2024-1-8",
+                "user_id": "9b2f2a018b84fc6e5aa643e0c3db2a7c",
+                "full_comment": "War alles sehr einfach zu handhaben. Sehr sch\u00f6n"
+            },
+            "27045555": {
+                "order_id": 27045555,
+                "keyWord": "\u00fcbersichtlichkeit",
+                "Dringlichkeit": 1,
+                "Zusammenfassung": "\u00dcbersichtlichkeit gelobt.",
+                "Datum": "2024-1-8",
+                "user_id": "b5eec002e477b6749df0183d0567033f",
+                "full_comment": "Sehr \u00fcbersichtlich leicht zu bedienen transparente Kostenangaben Angabe von voraussichtlichem Liefertermin ingesamt sehr Nutzerfreundlich"
+            },
+            "27045845": {
+                "order_id": 27045845,
+                "keyWord": "uebersichtlichkeit",
+                "Dringlichkeit": 1,
+                "Zusammenfassung": "\u00dcbersichtlichkeit gelobt.",
+                "Datum": "2024-1-8",
+                "user_id": "cfdb815b0c3d3373986a4aa5912dac08",
+                "full_comment": "Sehr \u00fcbersichtlich - gute Bearbeitungsm\u00f6glichkeiten"
+            },
+            "27045867": {
+                "order_id": 27045867,
+                "keyWord": "einfachebedienung",
+                "Dringlichkeit": 1,
+                "Zusammenfassung": "Einfache Bedienung",
+                "Datum": "2024-1-8",
+                "user_id": "076c931e56a1410e614b213473ced5bc",
+                "full_comment": "Unkomplizierte Bedienung"
+            },
+            "27046068": {
+                "order_id": 27046068,
+                "keyWord": "einfach",
+                "Dringlichkeit": 1,
+                "Zusammenfassung": "Seite einfach aufgebaut.",
+                "Datum": "2024-1-8",
+                "user_id": "f95072c5a3a75e397f9020b5d961f682",
+                "full_comment": "Schnelles Bestellen der Fotos m\u00f6glich. Einfacher Aufbau der Seite!"
+            },
+            "27046326": {
+                "order_id": 27046326,
+                "keyWord": "editorverbesserungsvorschlag",
+                "Dringlichkeit": 3,
+                "Zusammenfassung": "Editorverbesserungsvorschlag",
+                "Datum": "2024-1-8",
+                "user_id": "dbb27539cb4b40e4c78e319a7fefb817",
+                "full_comment": "der Editor k\u00f6nnte eine Option haben um das Bild an den Ausschnitt anzupassen"
+            },
+            "27046427": {
+                "order_id": 27046427,
+                "keyWord": "formatproblem",
+                "Dringlichkeit": 3,
+                "Zusammenfassung": "Bildformat und Kalenderleiste anders in Webanwendung.",
+                "Datum": "2024-1-8",
+                "user_id": "0b1ef87cd31a1ac46d755633d01cf0e5",
+                "full_comment": "Ich hatte den Kalender in der offline Fotowelt vorbereit. Wegen Versands ins Ausland bin ich zur Webanwendung gewechselt. Leider war das Bildformat und die Kalenderleiste etwas anders sodass einige Fotos nicht so gut passten."
+            },
+            "27046934": {
+                "order_id": 27046934,
+                "keyWord": "einfachnutzung",
+                "Dringlichkeit": 1,
+                "Zusammenfassung": "Einfache Nutzung.",
+                "Datum": "2024-1-8",
+                "user_id": "adb34985e619b796e9e1fa49a5ef5096",
+                "full_comment": "Gute Qualit\u00e4t schnelle Lieferung einfache und intuitive Nutzung des Programms"
+            },
+            "27047643": {
+                "order_id": 27047643,
+                "keyWord": "einfach",
+                "Dringlichkeit": 1,
+                "Zusammenfassung": "Einfach zu bedienen.",
+                "Datum": "2024-1-9",
+                "user_id": "4f28ed3a9e4f859e369fb902c516bb7e",
+                "full_comment": "Easy zu bedienen einfach immer wieder gut!"
+            },
+            "27048108": {
+                "order_id": 27048108,
+                "keyWord": "un\u00fcbersichtlich",
+                "Dringlichkeit": 1,
+                "Zusammenfassung": "Un\u00fcbersichtlich bei Bestellung.",
+                "Datum": "2024-1-9",
+                "user_id": "3c54df0e21e04b3867018db30013862e",
+                "full_comment": "ab und zu etwas un\u00fcbersichtlich ... zB. bei der Bestellung des Vorjahreskalenders mit aktueller Datumsleiste"
+            },
+            "27048238": {
+                "order_id": 27048238,
+                "keyWord": "einfachebedienung",
+                "Dringlichkeit": 1,
+                "Zusammenfassung": "einfache Bedienung",
+                "Datum": "2024-1-9",
+                "user_id": "222abd3accff8565688ae829a50ec6de",
+                "full_comment": "einfache Bedienung"
+            },
+            "27048302": {
+                "order_id": 27048302,
+                "keyWord": "gestaltung",
+                "Dringlichkeit": 1,
+                "Zusammenfassung": "Gestaltungsm\u00f6glichkeiten gut.",
+                "Datum": "2024-1-9",
+                "user_id": "46cb18dc3069ea573bb50259e257181d",
+                "full_comment": "Gute Gestaltungsm\u00f6glichkeiten"
+            },
+            "27049436": {
+                "order_id": 27049436,
+                "keyWord": "klarstrukturiert",
+                "Dringlichkeit": 1,
+                "Zusammenfassung": "Rezension ist verst\u00e4ndlich und klar strukturiert.",
+                "Datum": "2024-1-9",
+                "user_id": "943f4978e2abe8cec30002b4cdacceff",
+                "full_comment": "Verst\u00e4ndlich und klar strukturiert"
+            },
+            "27049873": {
+                "order_id": 27049873,
+                "keyWord": "einfachschnell",
+                "Dringlichkeit": 1,
+                "Zusammenfassung": "einfach und schnell",
+                "Datum": "2024-1-9",
+                "user_id": "3559fe48efed9fd68e32f92ab788279a",
+                "full_comment": "super einfach und schnell"
+            },
+            "27050940": {
+                "order_id": 27050940,
+                "keyWord": "irrelevant",
+                "Dringlichkeit": 1,
+                "Zusammenfassung": "Umst\u00e4ndlich die Menge anzupassen.",
+                "Datum": "2024-1-9",
+                "user_id": "f0d91827f4706ec46e1b18f2a6e2e640",
+                "full_comment": "Es ist etwas umst\u00e4ndlich die Menge anzupassen..."
+            },
+            "27051215": {
+                "order_id": 27051215,
+                "keyWord": "layoutflexibler",
+                "Dringlichkeit": 3,
+                "Zusammenfassung": "Layout der Kalender unflexibel.",
+                "Datum": "2024-1-9",
+                "user_id": "dbe8e239eb7b80eeef3306550285ee1e",
+                "full_comment": "Die Aufteilung der Fotos beim Layout der Kalender k\u00f6nnten flexibler sein."
+            },
+            "27051316": {
+                "order_id": 27051316,
+                "keyWord": "irrelevant",
+                "Dringlichkeit": 1,
+                "Zusammenfassung": "Kein Fehlerbericht.",
+                "Datum": "2024-1-9",
+                "user_id": "59bdd2d711d45d55aeacd816e064e058",
+                "full_comment": "Sauber und Schnell zu verstehen."
+            },
+            "27051726": {
+                "order_id": 27051726,
+                "keyWord": "benutzerfreundlich",
+                "Dringlichkeit": 1,
+                "Zusammenfassung": "Benutzerfreundlich.",
+                "Datum": "2024-1-10",
+                "user_id": "099ac39073c3d88e7d205040953030e0",
+                "full_comment": "sehr \u00fcbersichtlich und leicht zu bedienen und nat\u00fcrlich optisch ansprechend"
+            },
+            "27052699": {
+                "order_id": 27052699,
+                "keyWord": "emojifehler",
+                "Dringlichkeit": 1,
+                "Zusammenfassung": "Keine Emojis einf\u00fcgbar",
+                "Datum": "2024-1-10",
+                "user_id": "de9a25ae92bdc1064bcb812cede6afd7",
+                "full_comment": "Sehr einfache Bedienung; kleines Manko dass keine Emojis in den Textfeldern eingef\u00fcgt bzw. erkannt werden k\u00f6nnen"
+            },
+            "27052898": {
+                "order_id": 27052898,
+                "keyWord": "einfachemenufuehrung",
+                "Dringlichkeit": 1,
+                "Zusammenfassung": "Einfache Men\u00fcf\u00fchrung.",
+                "Datum": "2024-1-10",
+                "user_id": "b00a4cde7f075ea41399e77629851f4e",
+                "full_comment": "einfache Men\u00fcdhrung"
+            },
+            "27052889": {
+                "order_id": 27052889,
+                "keyWord": "layout",
+                "Dringlichkeit": 3,
+                "Zusammenfassung": "Layout zu kompliziert.",
+                "Datum": "2024-1-10",
+                "user_id": "0c6333cace658c1434513fe00bde3511",
+                "full_comment": "Die Layoutgestaltung ist auch f\u00fcr mich bei meiner 30 j\u00e4hrigen Erfahrung zu kompliziert!!!! Mehr KI bitte!!!"
+            },
+            "27053281": {
+                "order_id": 27053281,
+                "keyWord": "uebersichtlich",
+                "Dringlichkeit": 1,
+                "Zusammenfassung": "Rezensent findet die Seite \u00fcbersichtlich.",
+                "Datum": "2024-1-10",
+                "user_id": "efaa35cb0ef6a131e85cf15f16143a39",
+                "full_comment": "\u00fcbersichtlich"
+            },
+            "27053543": {
+                "order_id": 27053543,
+                "keyWord": "benutzerfreundlich",
+                "Dringlichkeit": 1,
+                "Zusammenfassung": "Webseite ist \u00fcbersichtlich.",
+                "Datum": "2024-1-10",
+                "user_id": "5504712e192f40a0613308788aae4659",
+                "full_comment": "\u00dcbersichtlich. Man muss nicht lange suchen um das ben\u00f6gte Produkt zu finden. Bestellung verl\u00e4uft sehr flott"
+            },
+            "27053737": {
+                "order_id": 27053737,
+                "keyWord": "einfachebedienung",
+                "Dringlichkeit": 1,
+                "Zusammenfassung": "Einfache Bedienung",
+                "Datum": "2024-1-10",
+                "user_id": "c9dbef40be26c727e0b5c3c6d7f53a41",
+                "full_comment": "Einfache Bedienung"
+            },
+            "27054972": {
+                "order_id": 27054972,
+                "keyWord": "einfach",
+                "Dringlichkeit": 1,
+                "Zusammenfassung": "einfach und verst\u00e4ndlich",
+                "Datum": "2024-1-10",
+                "user_id": "505b245fe43270634e854ae41e6687e8",
+                "full_comment": "einfach und verst\u00e4ndlich"
+            },
+            "27055512": {
+                "order_id": 27055512,
+                "keyWord": "einfach",
+                "Dringlichkeit": 1,
+                "Zusammenfassung": "einfach und \u00fcbersichtlich",
+                "Datum": "2024-1-10",
+                "user_id": "6b5d0f4edb2db78c0c1fc9b77edacd1a",
+                "full_comment": "Intuitiv einfach und \u00fcbersichtlich! :-)"
+            },
+            "27055812": {
+                "order_id": 27055812,
+                "keyWord": "fehlendefeatures",
+                "Dringlichkeit": 3,
+                "Zusammenfassung": "Features zur Bearbeitung von Fotos nicht gefunden.",
+                "Datum": "2024-1-10",
+                "user_id": "8cd7be6495489da60c9f5bb48bf659e3",
+                "full_comment": "insgesamt okay! Leider habe ich einige Features zur Bearbeitung von Fotos (Konvertieren in SW Verkleinern\u2026) nicht gefunden\u2026"
+            },
+            "27055848": {
+                "order_id": 27055848,
+                "keyWord": "uebersichtlichkeit",
+                "Dringlichkeit": 1,
+                "Zusammenfassung": "\u00fcbersichtlich",
+                "Datum": "2024-1-10",
+                "user_id": "d185d6155702d05830524ae78fb526ed",
+                "full_comment": "Sehr praktisch und \u00fcbersichtlich"
+            }
+        },
+        "Service": {
+            "27043263": {
+                "order_id": 27043263,
+                "keyWord": "bestellvorgang",
+                "Dringlichkeit": 1,
+                "Zusammenfassung": "Bestellvorgang top.",
+                "Datum": "2024-1-8",
+                "user_id": "25c5d90f2cacc48ed26e4c23db89ef9a",
+                "full_comment": "Top Bestellvorgang!"
+            },
+            "27043506": {
+                "order_id": 27043506,
+                "keyWord": "gutscheineinloesen",
+                "Dringlichkeit": 5,
+                "Zusammenfassung": "Gutschein einl\u00f6sen nicht m\u00f6glich.",
+                "Datum": "2024-1-8",
+                "user_id": "959c1439b4ad573153f58b6c707ae682",
+                "full_comment": "leider gibt es keine M\u00f6glichkeit meinen Gutschein einzul\u00f6sen !!"
+            },
+            "27044053": {
+                "order_id": 27044053,
+                "keyWord": "irrelevant",
+                "Dringlichkeit": 1,
+                "Zusammenfassung": "Schnelle unkomplizierte Bestellung!!",
+                "Datum": "2024-1-8",
+                "user_id": "ae8db45847995e6611bc4aed94f4d36d",
+                "full_comment": "Schnelle unkomplizierte Bestellung!!"
+            },
+            "27046934": {
+                "order_id": 27046934,
+                "keyWord": "schnellerversand",
+                "Dringlichkeit": 1,
+                "Zusammenfassung": "Schnelle Lieferung.",
+                "Datum": "2024-1-8",
+                "user_id": "adb34985e619b796e9e1fa49a5ef5096",
+                "full_comment": "Gute Qualit\u00e4t schnelle Lieferung einfache und intuitive Nutzung des Programms"
+            },
+            "27048058": {
+                "order_id": 27048058,
+                "keyWord": "irrelevant",
+                "Dringlichkeit": 1,
+                "Zusammenfassung": "positiv",
+                "Datum": "2024-1-9",
+                "user_id": "370264d81f02f61d78a00cf90a84d2b3",
+                "full_comment": "wie immer - einfach kompetent perfekt"
+            },
+            "27050335": {
+                "order_id": 27050335,
+                "keyWord": "guter_service",
+                "Dringlichkeit": 1,
+                "Zusammenfassung": "guter Service",
+                "Datum": "2024-1-9",
+                "user_id": "1a5cc983bccb6a16e220922db70238c1",
+                "full_comment": "Super Service Dankesch\u00f6n \ud83d\udc4d"
+            },
+            "27051843": {
+                "order_id": 27051843,
+                "keyWord": "guter_service",
+                "Dringlichkeit": 1,
+                "Zusammenfassung": "Service ist gut.",
+                "Datum": "2024-1-10",
+                "user_id": "3c07d1f8c5f18b643f1459d67e768891",
+                "full_comment": "nette menschen  hilfe sofort toller service einfach toll"
+            },
+            "27054897": {
+                "order_id": 27054897,
+                "keyWord": "schnellerversand",
+                "Dringlichkeit": 1,
+                "Zusammenfassung": "Bestellung ging z\u00fcgig.",
+                "Datum": "2024-1-10",
+                "user_id": "02862e6bc13bd5683ce83278108b9d77",
+                "full_comment": "Bestellung ging z\u00fcgig"
+            }
+        },
+        "Preis": {
+            "27048863": {
+                "order_id": 27048863,
+                "keyWord": "irrelevant",
+                "Dringlichkeit": 1,
+                "Zusammenfassung": "Versandkosten unangemessen",
+                "Datum": "2024-1-9",
+                "user_id": "7f11de24d3063bc6caee2152615070d9",
+                "full_comment": "Versandkosten unangemessen..."
+            }
+        },
+        "Sonstiges": {
+            "27042811": {
+                "order_id": 27042811,
+                "keyWord": "irrelevant",
+                "Dringlichkeit": 1,
+                "Zusammenfassung": ":)",
+                "Datum": "2024-1-8",
+                "user_id": "9337f0a09de88a7315e32a0d44b5fd88",
+                "full_comment": ":)"
+            },
+            "27045355": {
+                "order_id": 27045355,
+                "keyWord": "irrelevant",
+                "Dringlichkeit": 1,
+                "Zusammenfassung": "Alles bestens.",
+                "Datum": "2024-1-8",
+                "user_id": "b9e3b49222fbbfcd198dbfca3206c508",
+                "full_comment": "Alles bestens"
+            },
+            "27047847": {
+                "order_id": 27047847,
+                "keyWord": "irrelevant",
+                "Dringlichkeit": 1,
+                "Zusammenfassung": "Kein Fehlerbericht.",
+                "Datum": "2024-1-9",
+                "user_id": "33db84b8df9a7a8067fcc7fd2a71c86e",
+                "full_comment": "Ich m\u00f6chte es einfach ausprobieren."
+            },
+            "27048708": {
+                "order_id": 27048708,
+                "keyWord": "irrelevant",
+                "Dringlichkeit": 1,
+                "Zusammenfassung": "Kein Fehlerbericht",
+                "Datum": "2024-1-9",
+                "user_id": "864ffb4b3150eef98351ea8a4e7faf74",
+                "full_comment": "Unkompliziert"
+            },
+            "27048875": {
+                "order_id": 27048875,
+                "keyWord": "irrelevant",
+                "Dringlichkeit": 1,
+                "Zusammenfassung": "Leichte Genrauchsanweisung",
+                "Datum": "2024-1-9",
+                "user_id": "e25ea41b62546d752966a56295977615",
+                "full_comment": "Leichte Genrauchsanweisung"
+            },
+            "27048943": {
+                "order_id": 27048943,
+                "keyWord": "irrelevant",
+                "Dringlichkeit": 1,
+                "Zusammenfassung": "Kein Fehlerbericht",
+                "Datum": "2024-1-9",
+                "user_id": "ef5396ee234fd914f67ea1761caaed02",
+                "full_comment": "\u00dcbersicht"
+            },
+            "27051186": {
+                "order_id": 27051186,
+                "keyWord": "irrelevant",
+                "Dringlichkeit": 1,
+                "Zusammenfassung": "falsche anzahl an bildern im warenkorb",
+                "Datum": "2024-1-9",
+                "user_id": "9f7e575ea40d2d7e1756d727c55743c9",
+                "full_comment": "bei der Bestellung wurde im Warenkorb nur ein Bild angezeigt aber 61 Abz\u00fcge"
+            },
+            "27051212": {
+                "order_id": 27051212,
+                "keyWord": "irrelevant",
+                "Dringlichkeit": 1,
+                "Zusammenfassung": "Kein Fehlerbericht.",
+                "Datum": "2024-1-9",
+                "user_id": "5b1b660d6e8faa7e55c575e3a5a3cf18",
+                "full_comment": "Weiter so :-)"
+            },
+            "27053126": {
+                "order_id": 27053126,
+                "keyWord": "irrelevant",
+                "Dringlichkeit": 1,
+                "Zusammenfassung": "Kein Fehlerbericht.",
+                "Datum": "2024-1-10",
+                "user_id": "157cab91b91939aea060c5c85d78dbdc",
+                "full_comment": "Einfach Gut"
+            },
+            "27054889": {
+                "order_id": 27054889,
+                "keyWord": "irrelevant",
+                "Dringlichkeit": 1,
+                "Zusammenfassung": "Kein Fehlerbericht.",
+                "Datum": "2024-1-10",
+                "user_id": "44809157c9ac77d968808a836a4c8958",
+                "full_comment": "funktioniert immer"
+            },
+            "27055314": {
+                "order_id": 27055314,
+                "keyWord": "irrelevant",
+                "Dringlichkeit": 1,
+                "Zusammenfassung": "Spontan und Zufriedenheit",
+                "Datum": "2024-1-10",
+                "user_id": "f5a1b6cbfc1033ac14aeb0d3fd9b7e18",
+                "full_comment": "Spontan und Zufriedenheit"
+            }
+        }
+    }
+}
